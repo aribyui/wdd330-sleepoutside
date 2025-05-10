@@ -26,4 +26,5 @@ _BYU-Pathway Worldwide improves lives through access to spiritually based, onlin
 ---
 ### Production Site
 https://sleepoutside-wdd-330.netlify.app/
+https://test-wdd-330.netlify.app/
 
